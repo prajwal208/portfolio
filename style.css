@@ -694,6 +694,9 @@ svg{
     background-color: #233554;
     color:#a2aabc
 }
+#bx-par{
+    line-height:30px;
+}
 .bx-para1{
     margin-top: 10px;
     font-size:13px;
