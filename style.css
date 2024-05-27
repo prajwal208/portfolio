@@ -141,6 +141,7 @@ svg{
     margin-top: 20px;
     color: #a2aabc;
     font-family: 'Roboto', sans-serif;
+    line-height: 40px;
 }
 .my-image{
     margin-left: 80px;
@@ -602,6 +603,7 @@ svg{
     #abt-lst{
     color: #64ffda;
     font-size: 19px;
+    word-spacing: 8px;
     }
 
     /*----------------experience----------------*/
