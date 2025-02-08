@@ -14,7 +14,7 @@
 nav{
     position: fixed; 
     width: 100%;
-    overflow: hidden;
+    z-index: 999;
 }
 
 
@@ -409,6 +409,7 @@ svg{
         display: inline-block;
     }
     nav{ 
+        overflow: hidden;
         position:absolute;
         margin-top:-25px;
         width: 200px;
@@ -663,7 +664,7 @@ svg{
 /*--------------box------------------*/
 
 .box-container{
-    margin-top: 550px;
+    margin-top: 20px;
     padding-left: 15px;
    
 }
@@ -734,7 +735,7 @@ svg{
     width: 300px;
     padding-top: 0px;
     display:block;
-    margin-top: 250px;
+    margin-top: 80px;
 }
 .proj-desc{
     width: 300px;
